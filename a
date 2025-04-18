@@ -1,4 +1,4 @@
-fetch("https://sellernetapi.batdongsan.com.vn/api/user/deleteAccount", {
+fetch("https://hidden/api/user/deleteAccount", {
   method: "POST",
   credentials: "include",
   headers: {
