@@ -1,0 +1,9 @@
+fetch("https://sellernetapi.batdongsan.com.vn/api/user/deleteAccount", {
+  method: "POST",
+  credentials: "include",
+  headers: {
+    "Apiversion": "2020-02-28 18:30",
+    "Sellernet-Origin": "desktop",
+    "Uniqueid": "deviceidfromweb"
+  }
+})
